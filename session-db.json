@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "id": "346849299:346849299",
+      "data": {
+        "__scenes": {},
+        "type": "list",
+        "user": [
+          {
+            "id": 346849299,
+            "is_bot": false,
+            "first_name": "Dmitry",
+            "username": "DmitryAst05",
+            "language_code": "ru",
+            "is_premium": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "430942548:430942548",
+      "data": {
+        "__scenes": {},
+        "type": "registration"
+      }
+    }
+  ]
+}
